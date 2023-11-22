@@ -1,291 +1,117 @@
-<a name="readme-top"></a>
-
-<!--
-!!! IMPORTANT !!!
-This README is an example of how you could professionally present your codebase. 
-Writing documentation is a crucial part of your work as a professional software developer and cannot be ignored. 
-
-You should modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
-
-For more information on the importance of a professional README for your repositories: https://github.com/microverseinc/curriculum-transversal-skills/blob/main/documentation/articles/readme_best_practices.md
--->
-
-<div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Microverse README Template</b></h3>
-
-</div>
-
-<!-- TABLE OF CONTENTS -->
-
-# 📗 Table of Contents
-
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Setup](#setup)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#deployment)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
-- [📝 License](#license)
-
-<!-- PROJECT DESCRIPTION -->
-
-# 📖 [your_project_name] <a name="about-project"></a>
-
-> Describe your project in 1 or 2 sentences.
-
-**[your_project__name]** is a...
-
-## 🛠 Built With <a name="built-with"></a>
-
-### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
-
-<!-- Features -->
-
-### Key Features <a name="key-features"></a>
-
-> Describe between 1-3 key features of the application.
-
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://google.com)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- GETTING STARTED -->
-
-## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
-
-To get a local copy up and running, follow these steps.
-
-### Prerequisites
-
-In order to run this project you need:
-
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
-
-### Setup
-
-Clone this repository to your desired folder:
-
-<!--
-Example commands:
-
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
-
-### Install
-
-Install this project with:
-
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
-
-### Usage
-
-To run the project, execute the following command:
-
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
-
-### Run tests
-
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
-### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- AUTHORS -->
-
-## 👥 Authors <a name="authors"></a>
-
-> Mention all of the collaborators of this project.
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTRIBUTING -->
-
-## 🤝 Contributing <a name="contributing"></a>
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- SUPPORT -->
-
-## ⭐️ Show your support <a name="support"></a>
-
-> Write a message to encourage readers to support your project
-
-If you like this project...
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGEMENTS -->
-
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank...
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
-
-## 📝 License <a name="license"></a>
-
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+# One-Month HTML and CSS Curriculum - Code Future
+
+## Week 1: Introduction to HTML
+
+### Day 1-2:
+- **Morning:** Introduction to Web Development
+  - Overview of Frontend and Backend
+  - Setting up a text editor
+
+- **Afternoon:** Basic HTML Structure
+  - HTML Document Structure
+  - Head and Body Elements
+  - Paragraphs, Headings, Lists
+
+### Day 3-4:
+- **Morning:** HTML Forms and Input Elements
+  - Form tags, Input types
+  - Labels, Textareas, Buttons
+
+- **Afternoon:** HTML Links and Images
+  - Anchor tags and attributes
+  - Image tags and attributes
+  - Absolute vs Relative Paths
+
+### Day 5:
+- **Morning:** HTML Semantic Elements
+  - Header, Footer, Section, Article, Nav
+  - Benefits of Semantic HTML
+
+- **Afternoon:** HTML Multimedia Elements
+  - Audio and Video tags
+  - Embedding external content
+
+## Week 2: Introduction to CSS
+
+### Day 6-7:
+- **Morning:** Introduction to CSS
+  - Understanding CSS syntax
+  - Inline, Internal, and External CSS
+
+- **Afternoon:** Selectors and Properties
+  - Basic selectors (tag, class, id)
+  - Common CSS properties
+
+### Day 8-9:
+- **Morning:** Box Model
+  - Understanding the box model
+  - Margin, Border, Padding
+
+- **Afternoon:** CSS Flexbox
+  - Introduction to Flexbox
+  - Building a simple layout
+
+## Week 3: Advanced CSS and Responsive Design
+
+### Day 10-11:
+- **Morning:** CSS Grid
+  - Introduction to Grid layout
+  - Building a grid-based layout
+
+- **Afternoon:** Responsive Design
+  - Media queries
+  - Mobile-first design approach
+
+### Day 12-14:
+- **Project:** Responsive Portfolio Page
+  - Apply knowledge of HTML and CSS to create a personal portfolio webpage
+  - Implement responsive design techniques
+
+## Week 4: CSS Preprocessors and Version Control
+
+### Day 15-16:
+- **Morning:** Introduction to SASS/SCSS
+  - Variables, Nesting, Mixins
+  - Importing and organizing styles
+
+- **Afternoon:** Version Control with Git
+  - Basic Git commands
+  - Creating and cloning repositories
+  - Working with branches
+
+### Day 17-18:
+- **Morning:** GitHub and Collaborative Development
+  - Setting up a GitHub account
+  - Pushing and pulling changes
+  - Collaboration through pull requests
+
+### Day 19-21:
+- **Project:** Collaborative Website
+  - Work in pairs or small groups to create a simple website
+  - Collaborate using Git and GitHub
+
+## Final Days: Review and Advanced Topics
+
+### Day 22-23:
+- **Morning:** Review and Q&A
+  - Recap of HTML and CSS concepts
+  - Addressing common challenges
+
+### Day 24-26:
+- **Afternoon:** Introduction to CSS Animation
+  - CSS transitions
+  - CSS keyframes
+
+### Day 27-28:
+- **Project:** Animated Website Element
+  - Implement animations in a personal project
+
+### Day 29-30:
+- **Capstone Project:** Build a Responsive Website
+  - Apply all learned concepts in a final project
+  - Showcase a responsive, visually appealing website
+
+## Additional Resources:
+- Encourage participants to explore online resources and documentation.
+- Suggest practice websites (e.g., CodePen, JSFiddle) for experimenting with code.
+- Assign readings and video tutorials as supplementary materials.
